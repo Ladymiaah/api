@@ -76,6 +76,12 @@ const HeroBanner: React.FC =() => {
   <p className="text-xs font-light text-center">Teamwork</p>
 </div>
    </div>
+   </div>
+   </div>
+
+
+
+   
 <div className="flex justify-center mt-5">
   <button className="bg-black text-white text-sm font-semibold py-3 px-6 flex items-center rounded-full">
     Get Started - it's Free
@@ -101,8 +107,8 @@ const HeroBanner: React.FC =() => {
                 <img src="icons/image1.png" alt="visual" className="mx-auto mt-10" />
 
         </div>
-        </div>
-        </div>
+        
+        
        
     )
 }
